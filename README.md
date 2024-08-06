@@ -1,5 +1,5 @@
 # CODTECH IT SOLUTIONS
-task2-bigdata
+Task2-bigdata
 DATA PROCESSING WITH APACHE SPARK
 TASK TWO:
 Perform data processing and analysis using Apache Spark. This project introduces you to big data processing and analytics.Set up Apache Spark in a local or cluster environment. Write Spark jobs in Scala, Python (PySpark), or Java. Process and analyze data from different sources (e.g., CSV, JSON).
